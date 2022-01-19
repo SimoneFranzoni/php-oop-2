@@ -12,7 +12,7 @@ $user1 = new User('Tom', 'Bino');
 var_dump($user1);
 
 // userPremium
-$userpremium1 = new userPremium('Dario', 'Lampa');
+$userpremium1 = new UserPremium('Dario', 'Lampa');
 var_dump($userpremium1);
 
 
